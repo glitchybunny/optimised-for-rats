@@ -1,0 +1,18 @@
+{
+	// The type of flight used by freecam.
+	"flightMode": "DEFAULT",
+	// The horizontal speed of freecam.
+	"horizontalSpeed": 1.0,
+	// The vertical speed of freecam.
+	"verticalSpeed": 0.8,
+	// Whether your player is rendered in your original position while freecam is enabled.
+	"showPlayer": true,
+	// Whether your hand is shown while freecam is enabled.
+	"showHand": false,
+	// Whether taking damage disables freecam.
+	"disableOnDamage": true,
+	// Whether you can interact with blocks/entities while freecam is enabled.
+	"allowInteract": true,
+	// Whether action bar notifications are displayed.
+	"notify": true
+}

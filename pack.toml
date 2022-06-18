@@ -1,0 +1,13 @@
+name = "Rats Optimised"
+author = "SewerBunny"
+version = "1.2.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "42dc61df6d8ea8ae61d0e3df4437bdb034d47024d6ba66fe925d680051b53e22"
+
+[versions]
+fabric = "0.14.8"
+minecraft = "1.19"

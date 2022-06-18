@@ -1,0 +1,13 @@
+name = "Entity Texture Features [Fabric]"
+filename = "entity-texture-features-3.1.2-mc1.19.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/BVzZfTc1/versions/3.1.2/entity-texture-features-3.1.2-mc1.19.jar"
+hash-format = "sha1"
+hash = "5954de581281f46b0e8b5e60fb84eecd20dcb42c"
+
+[update]
+[update.modrinth]
+mod-id = "BVzZfTc1"
+version = "QsuMVUdW"
