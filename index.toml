@@ -412,11 +412,6 @@ hash = "1409d0a2d8e874554252aebd513b2eb6831eb0cbd4fadcb988e0823c0709da95"
 metafile = true
 
 [[files]]
-file = "mods/grass-kiss.pw.toml"
-hash = "01f38b40d622c2fc4247d0e480ab90f10f7cb1c94ac6bc161cf42d2dd72b5dc8"
-metafile = true
-
-[[files]]
 file = "mods/indium.pw.toml"
 hash = "bbbf79e3bc952411d58fb20119792dda0096b42784ff9398c5febd2a137153c4"
 metafile = true
