@@ -2,7 +2,11 @@ hash-format = "sha256"
 
 [[files]]
 file = "LICENSE"
-hash = "605e9047a563c5c8396ffb18232aa4304ec56586aee537c45064c6fb425e44ad"
+hash = "e3a994d82e644b03a792a930f574002658412f62407f5fee083f2555c5f23118"
+
+[[files]]
+file = "README.md"
+hash = "0c14406b5349f37d8f31cfe4c8c3887d1c13273be45457ae619d5706fcba2df0"
 
 [[files]]
 file = "config/MouseTweaks.cfg"
@@ -185,22 +189,6 @@ file = "config/visuality.json"
 hash = "302acac902d537c5ac4ad706235c13411da14f38ed08fa84fd34d94e3b66cb26"
 
 [[files]]
-file = "config/xaerominimap.txt"
-hash = "114329874e8fff0f0bfa0fad424524822761e93fd62709f2e3b1276bb5af317e"
-
-[[files]]
-file = "config/xaerominimap_entities.json"
-hash = "0d590639b67de2f027d2c257cb829b9e7a7a219476d573642edf2be1672e9cd8"
-
-[[files]]
-file = "config/xaeropatreon.txt"
-hash = "8f416b1035da696f526b1cc83494f348616a6603f0091b6ec11ee84e1b70aa09"
-
-[[files]]
-file = "config/xaeroworldmap.txt"
-hash = "ac294925a1f8a8b84e7fddd6107fcd0a8e4d61c120f9cf854171c2e3a061bd75"
-
-[[files]]
 file = "config/yosbr/config/betterf3.json"
 hash = "6d478de95d886ffe7bb0bb703091a1f18bdac8dc50a7292306504485291e7929"
 
@@ -257,6 +245,10 @@ file = "figura/trust_settings.nbt"
 hash = "7a28ea1fff3b4ef87c7ead3c09a5a595c5cfc8e10de871cd51d285a14e9aff69"
 
 [[files]]
+file = "icon.png"
+hash = "d1d25e417ed2faf6d7b081933dd764afc928b07669f874661abfdcaf00236888"
+
+[[files]]
 file = "mods/advancementinfo.pw.toml"
 hash = "4630f59c3ac70d37641704833a8cc94171eb02697969277159b749ea15e74c00"
 metafile = true
@@ -282,8 +274,23 @@ hash = "15a61cb17cb7f269cb454d52dd1e7e8aebfe22b8987bd074f8d41384f8a72b86"
 metafile = true
 
 [[files]]
+file = "mods/auth-me.pw.toml"
+hash = "e069d5130c543fdfe06368fe19a3a4877a2bd4cac471e622da057d8dca3851a8"
+metafile = true
+
+[[files]]
+file = "mods/autorun.pw.toml"
+hash = "b294f67ca50e4cccc40a75b3314f50ef3e8aadc3e7300049a947e26a90d8ae06"
+metafile = true
+
+[[files]]
 file = "mods/beenfo.pw.toml"
 hash = "27a145220af5b044739ae1b414a0fa1a44d55de811867f69a7b4eed82425a949"
+metafile = true
+
+[[files]]
+file = "mods/better-biome-blend.pw.toml"
+hash = "aeaefb6089a1cf7635b3722aabdda71baea6e0e72547ca3bb7726400ae5b93cd"
 metafile = true
 
 [[files]]
@@ -299,6 +306,11 @@ metafile = true
 [[files]]
 file = "mods/betterf3.pw.toml"
 hash = "90de023b54d15536a49e98bd4b79319940381bad60e8ca9798a4f5468b9b156f"
+metafile = true
+
+[[files]]
+file = "mods/boat-item-view.pw.toml"
+hash = "67239981d8f29860e0de6d2462630a9eeb839ee44b633c3dc3d41e8760426a08"
 metafile = true
 
 [[files]]
@@ -322,8 +334,18 @@ hash = "d2bb03cee21d84e8e72fccc06cc8afbd6760674a7b8629a3fcba98e24503008e"
 metafile = true
 
 [[files]]
+file = "mods/clear-skies.pw.toml"
+hash = "05d2f376fc888ece6bdd5c3592933b1997d5a31c1f4f897f97a90310aece2fa1"
+metafile = true
+
+[[files]]
 file = "mods/clickthrough.pw.toml"
 hash = "b46ae91063839b3aaa7a863f69586e00883a6c98b2959005eaff27a459aa5d82"
+metafile = true
+
+[[files]]
+file = "mods/clientsidenoteblocks.pw.toml"
+hash = "7596bb39601c5de4558dd46ef7e2c80f96e4a56d88ef2ada96838338e7c0f222"
 metafile = true
 
 [[files]]
@@ -409,6 +431,11 @@ metafile = true
 [[files]]
 file = "mods/figura.pw.toml"
 hash = "1409d0a2d8e874554252aebd513b2eb6831eb0cbd4fadcb988e0823c0709da95"
+metafile = true
+
+[[files]]
+file = "mods/gamma-utils.pw.toml"
+hash = "5b6a86bcc8399502ee1c0f1d6cde8e32dd8f6e6996ed6fb5dcc55faf43a81610"
 metafile = true
 
 [[files]]
@@ -522,8 +549,18 @@ hash = "3617f55f5973b7dcaab7ae5098db9f3daf6d5e89123c0a58301333435dda6e03"
 metafile = true
 
 [[files]]
+file = "mods/raised.pw.toml"
+hash = "014566a9d16177ef1499864718b28090b5ac254e3e910a2cea67b911b56f3e5a"
+metafile = true
+
+[[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "b4d8e22f7916c1a2e8be07b708cd02d16bd730e382bb7ca36a615cf3e6782940"
+metafile = true
+
+[[files]]
+file = "mods/screenshot-to-clipboard.pw.toml"
+hash = "8cee882d886709a92b1c2ba19e6c5d1a55da9cc6ed79b78d62eec98b5b768588"
 metafile = true
 
 [[files]]
@@ -552,6 +589,16 @@ hash = "be68ef606c339bbb22f2b812db1e5264d9e3335befc0c348d4dc91a8a3e72e17"
 metafile = true
 
 [[files]]
+file = "mods/statssearch.pw.toml"
+hash = "ea96672f9b121436cc4df02b886935a42c17d0d5b11d0a09eb7a3ad1c7ea8b5b"
+metafile = true
+
+[[files]]
+file = "mods/thorium.pw.toml"
+hash = "332f7d3348b81a94368500afcf02ce4a4ec8a4ffc486932c317500b08b0712e7"
+metafile = true
+
+[[files]]
 file = "mods/tiefix.pw.toml"
 hash = "4030c2a4d6eacab88b8993578ef19f874a2cbcf4fd0bf09b88eda32d3cecdbf1"
 metafile = true
@@ -570,6 +617,10 @@ metafile = true
 file = "mods/zoomify.pw.toml"
 hash = "eda1cc1a41819d633cc5161ea985aa3f4cbf8f7901496bbde160c885ea808628"
 metafile = true
+
+[[files]]
+file = "note-to-self.txt"
+hash = "5b73f4594767249c3d19033f1387321f92e95334b6d06bc6731043be56d58838"
 
 [[files]]
 file = "options.txt"

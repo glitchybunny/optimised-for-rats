@@ -1,12 +1,12 @@
 name = "Rats Optimised"
 author = "SewerBunny"
-version = "1.2.0"
+version = "1.2.1"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "2cc487f84bffdbdef8ddbebb76248662f8bdd1ddd2ca6d65cfe6d9c23c0e2aed"
+hash = "6265e8fdbcab41ecda7097ba3dfc053626a469deec89e3d43abbcf8dfca33bb5"
 
 [versions]
 fabric = "0.14.8"
