@@ -45,20 +45,12 @@ file = "config/citresewn.json"
 hash = "5db2de4702249e708364d87652d234680bbaee844e47d619320bd36c84e5ddf3"
 
 [[files]]
-file = "config/collective-fabric.json"
-hash = "a96dc1d34609e0ed2d4bd3c3cab74944040d52000d9dffe3047865e14f2bb14b"
-
-[[files]]
 file = "config/continuity.json"
 hash = "03a19a67749e08c8be9c653fa89bb3a2eb587a0d969fceb92052aa5e6e7adf09"
 
 [[files]]
 file = "config/deathlog.json"
 hash = "1a4669135d3103fe4adc2b1cc43a4319c666c9bb65f89d9508c43bdba35bd3f7"
-
-[[files]]
-file = "config/doubledoors-fabric.json"
-hash = "a0c2237842dd0577f5b4999effd7766a6fb020d73f1bd751cd46de9bd58ecf18"
 
 [[files]]
 file = "config/dynamicfps.toml"
@@ -105,10 +97,6 @@ file = "config/iris.properties"
 hash = "604a3eb84f4e8f593766d65834f1682359c7945f7f4956c7733d878601af6a97"
 
 [[files]]
-file = "config/itemmodelfix.json"
-hash = "f67460631e5dd59fd646347174cfe7b8de38be6556bb928bea4619cbd6f32616"
-
-[[files]]
 file = "config/lambdabettergrass.toml"
 hash = "71f8657fa67d9b11264366d2e8726098d6d86887e63f14e2cbce82532a2f84be"
 
@@ -129,20 +117,12 @@ file = "config/notenoughcrashes.json"
 hash = "8deed1a37e1d8b3741c5059ec8351ab8855ea44614ae22b2c377f9d3c7b34aaf"
 
 [[files]]
-file = "config/okzoomer.json5"
-hash = "44231e1a7a97ca10e18b39f19e9dbadf4a0b4c23b92bc670786fddfd7fc4ddf8"
-
-[[files]]
-file = "config/pling.json"
-hash = "405c250d23760fbc3c64d8023f07fe030cfed3b65ed74f5bf4c122c1a5953e76"
-
-[[files]]
 file = "config/presencefootsteps/updater.json"
 hash = "1e7c61df09c105e1eeca8cf3dcbdfeb976700e9904bcb3983fc7791adb7fad2e"
 
 [[files]]
 file = "config/presencefootsteps/userconfig.json"
-hash = "bec6305a7ceb57a072382d4c43dc1421f0ab9e063528c8e966450a3fd8164992"
+hash = "37999a1331d86b4309f7cbbdab6b53686fd3caba528585369c91540f20b6a83e"
 
 [[files]]
 file = "config/puzzle.json"
@@ -155,14 +135,6 @@ hash = "a6d92e28ffe1080399049a2a6b39c6b410d66f5a30e77f33ec26919467171bae"
 [[files]]
 file = "config/shulkerboxtooltip.json5"
 hash = "dd2ee59d8f82617617d820329b19ee6dd0ae4200b95fae9ad73ff7a5bb6c3af6"
-
-[[files]]
-file = "config/slightguimodifications/config.json5"
-hash = "7da931e9b7389034de203f2719b99ab74ab8e500a898ad5d563d64f13c501120"
-
-[[files]]
-file = "config/slightguimodifications/cts.groovy"
-hash = "592e09aea548099f4f9313eb7fa2add4dbce73d57c00c400227f9b1bc3c586cc"
 
 [[files]]
 file = "config/sodium-extra-options.json"
@@ -187,6 +159,18 @@ hash = "2f9524e90a973cbd127f8f3f5d7b134efbce157dfe1ef26bcf365ce0caf7a6ec"
 [[files]]
 file = "config/visuality.json"
 hash = "302acac902d537c5ac4ad706235c13411da14f38ed08fa84fd34d94e3b66cb26"
+
+[[files]]
+file = "config/xaerominimap.txt"
+hash = "ea8e7e641f74b9923ad9be8f2717e0ff94749b1bc087a36ce746a6e9b3c764af"
+
+[[files]]
+file = "config/xaeropatreon.txt"
+hash = "519f811142b420c13dcf133196b9edd93046cf37e30c63afaf4f0e962b4fc94a"
+
+[[files]]
+file = "config/xaeroworldmap.txt"
+hash = "e65f98392bca29f7d8e5eeafb8512d259dc97fcaa4a88a6a03abb3f097591cbb"
 
 [[files]]
 file = "config/yosbr/config/betterf3.json"
@@ -241,10 +225,6 @@ file = "config/yosbr/options.txt"
 hash = "e406d746f3ab990bf7e229b36b28820ae017f40455b676c039617d1077a04cb1"
 
 [[files]]
-file = "figura/trust_settings.nbt"
-hash = "7a28ea1fff3b4ef87c7ead3c09a5a595c5cfc8e10de871cd51d285a14e9aff69"
-
-[[files]]
 file = "icon.png"
 hash = "d1d25e417ed2faf6d7b081933dd764afc928b07669f874661abfdcaf00236888"
 
@@ -265,7 +245,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "087e20d9f6a50f1e9167507f74a15857eb67d76ee69fa22be52bd0d14c15bb5c"
+hash = "826a261afe006c3d29a03c0b76fb861495dfa37261e816323045b9eccd567969"
 metafile = true
 
 [[files]]
@@ -329,6 +309,11 @@ hash = "753859b58aa7a674785b3ec5a8080c2142209a50185cc3dd5ab90c7c6a38f5ee"
 metafile = true
 
 [[files]]
+file = "mods/chat-heads.pw.toml"
+hash = "d6cd634f39f675513fbc98dbf8ec2ae93a7ea8bd4d9247e08d61d153e321b22a"
+metafile = true
+
+[[files]]
 file = "mods/cit-resewn.pw.toml"
 hash = "d2bb03cee21d84e8e72fccc06cc8afbd6760674a7b8629a3fcba98e24503008e"
 metafile = true
@@ -380,7 +365,7 @@ metafile = true
 
 [[files]]
 file = "mods/debugify.pw.toml"
-hash = "d562db5edffe81d5698a1c8ee6a42c4d014865dad4daf19fd4331b99018a2537"
+hash = "004dbebb72fb7b4afaa12797a18c0871b78da1cc930ee0a9e65a485a99d6232b"
 metafile = true
 
 [[files]]
@@ -400,12 +385,12 @@ metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "7c8734c1b20623d0deaab723a2c872c3b166fe466b43caa43fc7118dfd40d843"
+hash = "d476772028d7d681aadd6a06fb8484cbf8476389267f6fd53293a17af3460bce"
 metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "68a7ae55f43cf6c9ddf2e3e091705538bfc5d20b7e24b38afaa4e221bbcd3979"
+hash = "e7cec26ae28ac003a313d63fcb722b3c52c4ca10eae61e0ba7686ef4ae1410f5"
 metafile = true
 
 [[files]]
@@ -420,7 +405,7 @@ metafile = true
 
 [[files]]
 file = "mods/fastload.pw.toml"
-hash = "ea75f34db436be200ad3fdbf25e2fd0fb16354d121a067baecea534967b4d150"
+hash = "a3d4421cfbd88626b4f27c8a6f251a6342d669bfeaf57d56de864688df550412"
 metafile = true
 
 [[files]]
@@ -434,23 +419,23 @@ hash = "1409d0a2d8e874554252aebd513b2eb6831eb0cbd4fadcb988e0823c0709da95"
 metafile = true
 
 [[files]]
+file = "mods/free-cam.pw.toml"
+hash = "3cc93c666fa74a04cd0309c25dbeb38167b346140d14f070c368c2e5eb4706e6"
+metafile = true
+
+[[files]]
 file = "mods/gamma-utils.pw.toml"
 hash = "5b6a86bcc8399502ee1c0f1d6cde8e32dd8f6e6996ed6fb5dcc55faf43a81610"
 metafile = true
 
 [[files]]
 file = "mods/indium.pw.toml"
-hash = "bbbf79e3bc952411d58fb20119792dda0096b42784ff9398c5febd2a137153c4"
+hash = "b5ecdce430ae016b791f415ef55f6740dcfd422cdb24c2ea78e4ec677cc7921e"
 metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
 hash = "e516d6d036f6d407a793c3b9a1fc5a8a817b05c9dc9d8677003fb0a512b2bf6f"
-metafile = true
-
-[[files]]
-file = "mods/journeymap.pw.toml"
-hash = "e47deab6f9e0ee7aacf07e85e6a16a44cac75c8b13b779508534a25589add192"
 metafile = true
 
 [[files]]
@@ -539,6 +524,11 @@ hash = "6abb2071e06ebda2ee6ceee2a0a469e71d04934069dcd351ed13ccba8b1e4ef7"
 metafile = true
 
 [[files]]
+file = "mods/pling.pw.toml"
+hash = "dfc73c6ed21d8be632f3d253bd23a921b1e690107a0cd70c63c55a5568278bfd"
+metafile = true
+
+[[files]]
 file = "mods/presence-footsteps.pw.toml"
 hash = "73a331eb8ba2203821613804d514d4da7974aa61d55e873686b9d7598077aee1"
 metafile = true
@@ -561,6 +551,11 @@ metafile = true
 [[files]]
 file = "mods/screenshot-to-clipboard.pw.toml"
 hash = "8cee882d886709a92b1c2ba19e6c5d1a55da9cc6ed79b78d62eec98b5b768588"
+metafile = true
+
+[[files]]
+file = "mods/shulkerboxtooltip.pw.toml"
+hash = "afe3992254de807d9adc977e96fb3e55db65e18bc57077534d51bdd79443d0fc"
 metafile = true
 
 [[files]]
@@ -609,22 +604,32 @@ hash = "9ff97d15f98320cec39af7c1e1fe9b9a5aaf4d51e899ffdfdbb4ad1fc1b03f4f"
 metafile = true
 
 [[files]]
+file = "mods/xaeros-minimap.pw.toml"
+hash = "0807ea6c2d331838aee23ec8f6b41fe16fdab2869326306a637986962343b77f"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.pw.toml"
+hash = "4ff08115d4dec034c1fa2a5b933daf38cf4dfc31282b8e7ffa04db89c1cd307b"
+metafile = true
+
+[[files]]
 file = "mods/yosbr.pw.toml"
 hash = "7c2712882baa2ed177b9b961cc1052b857f11ed1455609f9e9f01332c0317f12"
 metafile = true
 
 [[files]]
 file = "mods/zoomify.pw.toml"
-hash = "eda1cc1a41819d633cc5161ea985aa3f4cbf8f7901496bbde160c885ea808628"
+hash = "c6c963c8c9389d864664aabfd259e9b3909c274b56b2ff1477dac551216b3a28"
 metafile = true
-
-[[files]]
-file = "note-to-self.txt"
-hash = "5b73f4594767249c3d19033f1387321f92e95334b6d06bc6731043be56d58838"
 
 [[files]]
 file = "options.txt"
 hash = "54d13630bc584b804ea5a3e3701ad878aa1bfc9ce66025e49949ef08f0de2a5d"
+
+[[files]]
+file = "packwiz.txt"
+hash = "6a71224de97145a93fc0126996984e7c25a727ea98d57385d59f520a7c5ebeb3"
 
 [[files]]
 file = "resourcepacks/better_item_frames.zip"
