@@ -238,12 +238,12 @@ metafile = true
 
 [[files]]
 file = "mods/arrp.pw.toml"
-hash = "15a61cb17cb7f269cb454d52dd1e7e8aebfe22b8987bd074f8d41384f8a72b86"
+hash = "8b28171bd282364d5e555dedcd0388246791abaedda0737944c5ff9216d4117a"
 metafile = true
 
 [[files]]
 file = "mods/auth-me.pw.toml"
-hash = "e069d5130c543fdfe06368fe19a3a4877a2bd4cac471e622da057d8dca3851a8"
+hash = "fada6c5111be510ce9dcda58588edd0d694e11bc040fcc2afe0586e8560abb49"
 metafile = true
 
 [[files]]
@@ -373,7 +373,7 @@ metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "d476772028d7d681aadd6a06fb8484cbf8476389267f6fd53293a17af3460bce"
+hash = "51949291a0f29beab1674ac3e5a6736946042b727ff7d911767f8e44fcd50a8a"
 metafile = true
 
 [[files]]
@@ -418,7 +418,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "e516d6d036f6d407a793c3b9a1fc5a8a817b05c9dc9d8677003fb0a512b2bf6f"
+hash = "a348ec1aec5a10f7235d6741e08aea583e042049eded3d6eafd97a0688a891c0"
 metafile = true
 
 [[files]]
@@ -483,7 +483,7 @@ metafile = true
 
 [[files]]
 file = "mods/moreculling.pw.toml"
-hash = "7ce126f60e8e70bfd8d58058858ac59652d69c15f285eb0a9119cc6b2d3458eb"
+hash = "70794068a407652022124d83b39e696d2c3194daeea0e4993afd50fb0351552c"
 metafile = true
 
 [[files]]
