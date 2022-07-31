@@ -278,7 +278,7 @@ metafile = true
 
 [[files]]
 file = "mods/blanket.pw.toml"
-hash = "f07baf31c7d29f2c370c59f1f2d8a79051e3f67d883ef42aa6866c1abe163699"
+hash = "ad4adface5e9e24580fa832bdbd95e436300d12d16e6309508677903517b3ffc"
 metafile = true
 
 [[files]]
@@ -333,7 +333,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "53fa3438ef9e1e81193f46c36cffa7c410a933de0b6793224e99bad67cbab2e3"
+hash = "5b6a49a1f18adac12e9da13035102cb763e7371a93c2358e25cf74e014366e59"
 metafile = true
 
 [[files]]
@@ -483,7 +483,7 @@ metafile = true
 
 [[files]]
 file = "mods/moreculling.pw.toml"
-hash = "70794068a407652022124d83b39e696d2c3194daeea0e4993afd50fb0351552c"
+hash = "a731c245d34d995f19879f23e0a0689134cb3582409dc9d8c04ec8a53cbfc7ca"
 metafile = true
 
 [[files]]
@@ -538,7 +538,7 @@ metafile = true
 
 [[files]]
 file = "mods/shulkerboxtooltip.pw.toml"
-hash = "9b8be0ac6251a67b5047520c80b4a36904217cdf1dfb41bd79f3304ba87e5f5e"
+hash = "f9e88015973ea4c5fab0f3f60c1084fd277bbfdd4c194ad13b98de88a425f852"
 metafile = true
 
 [[files]]
@@ -583,7 +583,7 @@ metafile = true
 
 [[files]]
 file = "mods/visuality.pw.toml"
-hash = "9ff97d15f98320cec39af7c1e1fe9b9a5aaf4d51e899ffdfdbb4ad1fc1b03f4f"
+hash = "e4d8df8da89afc27ef4066bf63fb258fdef9bb367498372a6e5833dda27e0765"
 metafile = true
 
 [[files]]

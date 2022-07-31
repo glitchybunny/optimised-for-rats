@@ -1,13 +1,13 @@
 name = "ShulkerBoxTooltip"
-filename = "shulkerboxtooltip-3.0.10+1.19.jar"
+filename = "shulkerboxtooltip-3.1.0+1.19.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/2M01OLQq/versions/3.0.10+1.19/shulkerboxtooltip-3.0.10%2B1.19.jar"
+url = "https://cdn.modrinth.com/data/2M01OLQq/versions/3.1.0+1.19/shulkerboxtooltip-3.1.0%2B1.19.jar"
 hash-format = "sha1"
-hash = "b72deb26591e1bd4fc5cdaf9a708fd57f0335280"
+hash = "c6c70214664b91dd2b8d13c49cc6b41e607c434d"
 
 [update]
 [update.modrinth]
 mod-id = "2M01OLQq"
-version = "APeGIMUT"
+version = "jJqGuDzK"
