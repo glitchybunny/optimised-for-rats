@@ -233,7 +233,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "1e1da169cfe9ded4e2548d666476c5859dc2d4daf0bcb745720f937ef30947d4"
+hash = "d2e6b36469b9c5b1c1946e35b1ea33dc21fd22c3302c2cfe0a83f418055a7c41"
 metafile = true
 
 [[files]]
@@ -483,7 +483,7 @@ metafile = true
 
 [[files]]
 file = "mods/moreculling.pw.toml"
-hash = "a731c245d34d995f19879f23e0a0689134cb3582409dc9d8c04ec8a53cbfc7ca"
+hash = "8146180d1612a9ec226fb5981f0a95167c19a4a0e6a188eae93c94e5bcc8ea47"
 metafile = true
 
 [[files]]
@@ -538,7 +538,7 @@ metafile = true
 
 [[files]]
 file = "mods/shulkerboxtooltip.pw.toml"
-hash = "f9e88015973ea4c5fab0f3f60c1084fd277bbfdd4c194ad13b98de88a425f852"
+hash = "1f544cb814de8e209d9488f42eef60a4208be29094d784be1489d6b0fa6647e5"
 metafile = true
 
 [[files]]
@@ -603,7 +603,7 @@ metafile = true
 
 [[files]]
 file = "mods/zoomify.pw.toml"
-hash = "c6c963c8c9389d864664aabfd259e9b3909c274b56b2ff1477dac551216b3a28"
+hash = "f0a3e27c9875b275e6bbc68b8e4d847e404fd4f647674b625716ff2a75b61fef"
 metafile = true
 
 [[files]]
