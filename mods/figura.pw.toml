@@ -1,13 +1,13 @@
 name = "Figura"
-filename = "figura-0.0.8+1.19.jar"
+filename = "figura-0.1.0-rc.4+1.19.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/B3csO4KD/versions/0.0.8+1.19/figura-0.0.8%2B1.19.jar"
+url = "https://cdn.modrinth.com/data/B3csO4KD/versions/UG9xNVkw/figura-0.1.0-rc.4%2B1.19.jar"
 hash-format = "sha1"
-hash = "8da72eea74a1fbb664627ee2142a247bf8cbe48e"
+hash = "c4fe626a7d9386233ac70a53633059ee379b986a"
 
 [update]
 [update.modrinth]
 mod-id = "B3csO4KD"
-version = "WQVrXrxj"
+version = "UG9xNVkw"
