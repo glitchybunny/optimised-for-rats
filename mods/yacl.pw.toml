@@ -1,0 +1,13 @@
+name = "YetAnotherConfigLib"
+filename = "YetAnotherConfigLib-1.2.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/1eAoo2KR/versions/RsiSJn8g/YetAnotherConfigLib-1.2.0.jar"
+hash-format = "sha1"
+hash = "a2ab86c3d774b33145fd1ed98f52e9918ff00758"
+
+[update]
+[update.modrinth]
+mod-id = "1eAoo2KR"
+version = "RsiSJn8g"
