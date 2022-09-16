@@ -307,11 +307,6 @@ hash = "753859b58aa7a674785b3ec5a8080c2142209a50185cc3dd5ab90c7c6a38f5ee"
 metafile = true
 
 [[files]]
-file = "mods/chat-heads.pw.toml"
-hash = "d6cd634f39f675513fbc98dbf8ec2ae93a7ea8bd4d9247e08d61d153e321b22a"
-metafile = true
-
-[[files]]
 file = "mods/cit-resewn.pw.toml"
 hash = "0da3b33d0d62fcaf24835fb432b8dd9be02e82897cd43fddc38fa81106203d37"
 metafile = true
