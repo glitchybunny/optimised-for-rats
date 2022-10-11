@@ -582,6 +582,11 @@ hash = "4030c2a4d6eacab88b8993578ef19f874a2cbcf4fd0bf09b88eda32d3cecdbf1"
 metafile = true
 
 [[files]]
+file = "mods/ukulib.pw.toml"
+hash = "cb129601e3ca08e5b0bcf38dd62ae323ff352664fd99564082647ea381a52d66"
+metafile = true
+
+[[files]]
 file = "mods/visuality.pw.toml"
 hash = "e4d8df8da89afc27ef4066bf63fb258fdef9bb367498372a6e5833dda27e0765"
 metafile = true
