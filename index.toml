@@ -277,11 +277,6 @@ hash = "3ae1a0c92775ab42564f96758eae529e8d08eb0d1010b5bb810208c71b8b2b4b"
 metafile = true
 
 [[files]]
-file = "mods/betterhurtcam.pw.toml"
-hash = "15333bef7f8222c0189538caa69dc9a3115dc61a9e0e12284345e62cc2f9a33b"
-metafile = true
-
-[[files]]
 file = "mods/blanket.pw.toml"
 hash = "b0f1f64f998f86fec1bbaf06eb39c08ea3c712b590170d3277e899a74f045c2f"
 metafile = true
@@ -579,11 +574,6 @@ metafile = true
 [[files]]
 file = "mods/tiefix.pw.toml"
 hash = "4030c2a4d6eacab88b8993578ef19f874a2cbcf4fd0bf09b88eda32d3cecdbf1"
-metafile = true
-
-[[files]]
-file = "mods/ukulib.pw.toml"
-hash = "cb129601e3ca08e5b0bcf38dd62ae323ff352664fd99564082647ea381a52d66"
 metafile = true
 
 [[files]]
