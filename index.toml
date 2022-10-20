@@ -62,11 +62,11 @@ hash = "b54dfabdcd703382574da2f6fb349656628a7619379207e7688f0d65d9d7ddd4"
 
 [[files]]
 file = "config/fabric/indigo-renderer.properties"
-hash = "10dd6083a00b460371ca123cba0b9c0e5bf89ab0cd076b5787650a849ef2bc30"
+hash = "24e5b944360571720f4f02a3c0c2a5d0b2ae5016503e8b37f185db2d796988ed"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "ec6e2237d4c8d9eb8b6c5facd53e96a7c280bc12ff4716852cfc037c13e33547"
+hash = "7bfd6b60b835c9337fb779179992c57137529a277a1ffd6b0e01ce687ab329f0"
 
 [[files]]
 file = "config/fabrishot.properties"
@@ -74,7 +74,7 @@ hash = "f899b043b8f2db0c3515fc8ec67f58d4b61c37852fb6443400ccb50992a84db2"
 
 [[files]]
 file = "config/ferritecore.mixin.properties"
-hash = "fc00a2f34084275b3d0f5424cf8aeb49a3a718837894ac91af7cf0d82a9db4fa"
+hash = "ac2b86b1c5dc4e3728e17e091e203bb9bb747a6ef81a49b7ecc1ce7a67da210e"
 
 [[files]]
 file = "config/figura.json"
@@ -86,11 +86,11 @@ hash = "4d94ec4bc8b06387251b79b972edc13517fca044426ce43da37ccc209e71d411"
 
 [[files]]
 file = "config/indium-renderer.properties"
-hash = "e4be2067a6f317091f967c46ea410110f9ad9ab608f03fc1dd89eb2a066dfe87"
+hash = "369b8afef44da8f5ca23421fa80d098d708fb194023840faae299167c1544c7c"
 
 [[files]]
 file = "config/iris.properties"
-hash = "604a3eb84f4e8f593766d65834f1682359c7945f7f4956c7733d878601af6a97"
+hash = "13aaf682d887c0d6b5af6448e535b2cb5f8df0e0172399d3d0dd138cada70164"
 
 [[files]]
 file = "config/lambdabettergrass.toml"
@@ -178,11 +178,11 @@ hash = "c0ea016e992b3093ebf05ecbb099361b0c11e8cc4dc53c81aa959b0a5fc42381"
 
 [[files]]
 file = "config/yosbr/config/iris.properties"
-hash = "05b7909baff3cd0087fe07937c86a7fede1a904ace562b8df5116eca50f1f1e4"
+hash = "f21e750f412876502c4cebb6365f71ec9ab1beed99cc22fa4a01cbf97d5dfd8a"
 
 [[files]]
 file = "config/yosbr/config/lambdabettergrass.toml"
-hash = "2744ebcd3589f1124ab556b12e3d73b878fe89901789fdf18787cca12e6a6c0b"
+hash = "7b92103ff860d68a7dcd29dc6f99341aef8e81486a61ae36f9b26e19123b45d4"
 
 [[files]]
 file = "config/yosbr/config/midnightlib.json"
@@ -210,7 +210,7 @@ hash = "d3516058835f83e6a2c1d1312fbf20e6bcf43fad6fb1f12beb7f842129647c7f"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "e406d746f3ab990bf7e229b36b28820ae017f40455b676c039617d1077a04cb1"
+hash = "69c5ed98f16d17b3eb7d1a643f1141ee185faacdb66b76d9948d639728b0c10d"
 
 [[files]]
 file = "icon.png"
@@ -603,7 +603,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "54d13630bc584b804ea5a3e3701ad878aa1bfc9ce66025e49949ef08f0de2a5d"
+hash = "b4afebe3e12e3a2daaa3f2ee874e7d3ec3c378317537059fc9428d1aa247cc23"
 
 [[files]]
 file = "packwiz.txt"
