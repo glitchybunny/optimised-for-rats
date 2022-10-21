@@ -602,6 +602,11 @@ hash = "b1af4eefa1a2323bcfabb94592712b34ef3088098e8e26086ff48abe8cf0baf9"
 metafile = true
 
 [[files]]
+file = "mods/yacl.pw.toml"
+hash = "bf1922d77e7e4b5667532dd6abd36f5cdff870314247d43a1cf50e9139e18458"
+metafile = true
+
+[[files]]
 file = "mods/yosbr.pw.toml"
 hash = "7c2712882baa2ed177b9b961cc1052b857f11ed1455609f9e9f01332c0317f12"
 metafile = true
