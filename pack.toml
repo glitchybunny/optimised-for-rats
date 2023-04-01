@@ -1,13 +1,13 @@
 name = "Optimised for Rats"
 author = "SewerBunny"
-version = "1.3.0"
+version = "1.3.1"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "add1085832f4ab6420ec1191740b965cbabf375702c9fc775ccc8e11319d5ddb"
+hash = "ff90858900658fc4384655e65953476f5752996650b0a480474d3051ebc76881"
 
 [versions]
-fabric = "0.14.10"
+fabric = "0.14.18"
 minecraft = "1.19.2"
