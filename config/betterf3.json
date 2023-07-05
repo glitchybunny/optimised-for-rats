@@ -1,12 +1,18 @@
 {
 	"general": {
-		"animationSpeed": 1.0,
 		"disable_mod": false,
+		"hide_bossbar": true,
+		"shadow_text": true,
+		"auto_start": false,
+		"animationSpeed": 1.0,
+		"hide_debug_crosshair": false,
 		"background_color": 1867534416,
 		"space_modules": false,
-		"shadow_text": true,
-		"animations": false,
-		"fontScale": 1.0
+		"always_show_profiler": false,
+		"animations": true,
+		"fontScale": 1.0,
+		"hide_sidebar": true,
+		"always_show_tps": false
 	},
 	"modules_right": [
 		{
@@ -15,20 +21,16 @@
 			"value_color": 5636095,
 			"lines": {
 				"opengl_version": true,
+				"allocation_rate": true,
 				"display": true,
 				"java_version": true,
 				"gpu_driver": true,
 				"memory_usage": true,
 				"allocated_memory": true,
 				"cpu": true,
+				"gpu_utilization": true,
+				"time": true,
 				"gpu": true
-			},
-			"enabled": true
-		}, 
-		{
-			"name": "empty",
-			"lines": {
-				"nothing": true
 			},
 			"enabled": true
 		}, 
@@ -40,11 +42,11 @@
 				"id_fluid": true,
 				"fluid_tags": true,
 				"block_states": true,
-				"blank": true,
 				"targeted_block": true,
-				"blank2": true,
 				"block_tags": true,
 				"id_block": true,
+				"nothing": true,
+				"nothing2": true,
 				"targeted_fluid": true,
 				"targeted_entity": true,
 				"fluid_states": true
@@ -73,15 +75,22 @@
 			"color_low": 16733525
 		}, 
 		{
-			"name": "graphics",
-			"name_color": 16755200,
+			"name": "location",
+			"name_color": 43520,
 			"value_color": 5636095,
 			"lines": {
-				"shader": true,
-				"render_distance": true,
-				"graphics": true,
-				"clouds": true,
-				"biome_blend_radius": true
+				"light": true,
+				"biome": true,
+				"rotation": true,
+				"facing": true,
+				"slime_chunk": true,
+				"local_difficulty": true,
+				"day_ticks": true,
+				"days_played": true,
+				"dimension": true,
+				"highest_block": true,
+				"highest_block_server": true,
+				"light_server": true
 			},
 			"enabled": true
 		}, 
@@ -96,42 +105,6 @@
 				"player_coords": true,
 				"block_coords": true,
 				"chunk_relative_coords": true
-			},
-			"enabled": true
-		}, 
-		{
-			"name": "location",
-			"name_color": 43520,
-			"value_color": 5636095,
-			"lines": {
-				"light": true,
-				"biome": true,
-				"rotation": true,
-				"facing": true,
-				"local_difficulty": true,
-				"days_played": true,
-				"dimension": true,
-				"highest_block": true,
-				"highest_block_server": true,
-				"light_server": true
-			},
-			"enabled": true
-		}, 
-		{
-			"name": "entity",
-			"name_color": 16733525,
-			"value_color": 16777045,
-			"lines": {
-				"entities": true,
-				"water_creature": true,
-				"underground_water_creature": true,
-				"ambient": true,
-				"particles": true,
-				"axolotls": true,
-				"creature": true,
-				"water_ambient": true,
-				"monster": true,
-				"misc": true
 			},
 			"enabled": true
 		}
